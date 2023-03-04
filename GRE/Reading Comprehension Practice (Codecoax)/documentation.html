@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+	<link REL="SHORTCUT ICON" HREF="favicon.ico">
+	<title>RC Practice Utility Documentation</title>
+</head>
+<style type="text/css">
+span.comment  {color:#060; font-weight:normal}
+span.oper     {color:#006; font-weight:normal}
+span.var      {color:#600; font-weight:normal}
+span.func     {color:#606; font-weight:normal}
+span.num      {color:#300; font-weight:bold}
+span.string   {color:#066; font-weight:normal}
+span.reg      {color:#666; font-weight:normal}
+</style>
+<body>
+<div style="width:800px;margin:0 auto;">
+<br><br>
+<br><br>
+The utility takes an index array with the reading comprehensions and the respective questions and answers. The following is the format of the array.
+<pre lang="javascript"><code>
+<span class="var">data</span>[<span class="var">passage_index</span>][<span class="num">0</span>]<span class="oper">=</span><span class="var">passage</span> <span class="var">data</span> 
+<span class="var">data</span>[<span class="var">passage_index</span>][<span class="num">1</span>]<span class="oper">=</span><span class="func">Questions</span> (<span class="var">Array</span>) 
+<span class="var">data</span>[<span class="var">passage_index</span>][<span class="num">1</span>][<span class="var">Question_index</span>][<span class="num">0</span>]<span class="oper">=</span><span class="var">Question</span> 
+<span class="var">data</span>[<span class="var">passage_index</span>][<span class="num">1</span>][<span class="var">Question_index</span>][<span class="num">1</span>]<span class="oper">=</span><span class="var">Answer</span> 
+<span class="var">data</span>[<span class="var">passage_index</span>][<span class="num">1</span>][<span class="var">Question_index</span>][<span class="num">2</span>]<span class="oper">=</span><span class="var">Option1</span> 
+<span class="var">data</span>[<span class="var">passage_index</span>][<span class="num">1</span>][<span class="var">Question_index</span>][<span class="num">3</span>]<span class="oper">=</span><span class="var">Option2</span> 
+<span class="var">data</span>[<span class="var">passage_index</span>][<span class="num">1</span>][<span class="var">Question_index</span>][<span class="num">..</span>]<span class="oper">=</span><span class="var">Option..</span> 
+<span class="var">data</span>[<span class="var">passage_index</span>][<span class="num">1</span>][<span class="var">Question_index</span>][<span class="num">..</span>]<span class="oper">=</span><span class="var">Option..</span> 
+<span class="var">data</span>[<span class="var">passage_index</span>][<span class="num">1</span>][<span class="var">Question_index</span>][<span class="num">N</span>]<span class="oper">=</span><span class="var">OptionN</span>
+</code></pre>
+See the <a href='data.js'>data.js</a> file for example data format. Make sure to replace the <i>data.js</i> file with your data file (or edit RC.html to point to your data file)
+<pre lang="javascript"><code>
+<span class="oper">&lt;</span><span class="var">script</span> <span class="var">src</span><span class="oper">=</span>&quot;<span class="string"><i>data.js</i></span>&quot; <span class="var">type</span><span class="oper">=</span>&quot;<span class="string">text/javascript</span>&quot; <span class="var">charset</span><span class="oper">=</span>&quot;<span class="string">utf-8</span>&quot;<span class="oper">&gt;</span><span class="oper">&lt;</span>/<span class="reg">script&gt</span>
+</code></pre>
+
+</div>
+</body>
+</html>
