@@ -10,7 +10,6 @@ The Graduate Record Examinations (GRE) are a standardized exam that many graduat
 # Graduate Record Examinations GRE
  The Graduate Record Examinations (GRE) are a standardized exam that many graduate institutions in the United States, Canada, and a few other countries need applicants to take in order to be considered for admission. The Educational Testing Service is the organization that owns and manages the Graduate Record Examination (GRE). <a href="https://drive.google.com/drive/folders/1IcCQq_2RslHPxkk5vqwzvh8OByihaVUb?usp=sharing">Google Drive Link</a>
 
-
 ![image](https://user-images.githubusercontent.com/56669333/222896534-c7e41cd3-7f5b-4cb4-aed3-52c103efe97c.png)
 ![image](https://user-images.githubusercontent.com/56669333/222897097-3aa78318-68dc-4341-b27c-b2d99a3b8dbd.png)
 ![image](https://user-images.githubusercontent.com/56669333/222897110-2b7024ab-24d3-4dec-bbaa-f84a904c4a9d.png)
@@ -20,4 +19,24 @@ The Graduate Record Examinations (GRE) are a standardized exam that many graduat
 
 **Credit** <a href="https://hsa.grecbd.com/">Graduate Resources Enhancing Center, Bangladesh</a>
 
+
+| Title| Link |
+| ----------- | ----------- |
+|GRE material:|https://drive.google.com/drive/folders/0B7nHCBWxDxOmVUMyNHIwcndRWUk?usp=sharing|
+|Some material and Test Links:|https://drive.google.com/drive/mobile/folders/0BwL0u5z5gikqeVpycHhCb3NqT1E?usp=sharing|
+|Princeton 1014:|https://drive.google.com/file/d/0B7sWQEWGG8KVa2h2Z3I0OF9UZTA/view|
+|RC 99:|https://drive.google.com/drive/folders/19jj86h3dKYAluo76zGUh5ST0g1QuILm7?usp=sharing|
+|Manhattan 1-8 Detailed Study :| https://drive.google.com/drive/folders/19jj86h3dKYAluo76zGUh5ST0g1QuILm7?usp=sharing|
+|Manhattan 5 lb book :| https://drive.google.com/drive/folders/19jj86h3dKYAluo76zGUh5ST0g1QuILm7?usp=sharing|
+|GRE Math NOVA:| https://drive.google.com/drive/folders/19jj86h3dKYAluo76zGUh5ST0g1QuILm7?usp=sharing|
+|Barrons :| https://drive.google.com/drive/folders/19jj86h3dKYAluo76zGUh5ST0g1QuILm7?usp=sharing|
+|Kaplan :| https://drive.google.com/drive/folders/19jj86h3dKYAluo76zGUh5ST0g1QuILm7?usp=sharing|
+|McGraw:| https://drive.google.com/drive/folders/19jj86h3dKYAluo76zGUh5ST0g1QuILm7?usp=sharing|
+|Gre Big Book:| https://drive.google.com/drive/folders/19jj86h3dKYAluo76zGUh5ST0g1QuILm7?usp=sharing|
+|Random GRE Material and stuff |https://drive.google.com/drive/folders/19jj86h3dKYAluo76zGUh5ST0g1QuILm7?usp=sharing|
+|MAGOOSH ALL LINKS:| https://drive.google.com/drive/folders/19jj86h3dKYAluo76zGUh5ST0g1QuILm7?usp=sharing|
+|Use google chrome Gre-visa|https://drive.google.com/drive/folders/19jj86h3dKYAluo76zGUh5ST0g1QuILm7?usp=sharing|
+|Gre A-z materials|https://drive.google.com/drive/folders/19jj86h3dKYAluo76zGUh5ST0g1QuILm7?usp=sharing|
+
+Disclaimer: Gradchamp.com holds no ownership, responsibility or liability for the free content in the aforementioned Google Drive links.
     
