@@ -25,7 +25,7 @@
 |Use google chrome Gre-visa|https://drive.google.com/drive/folders/19jj86h3dKYAluo76zGUh5ST0g1QuILm7?usp=sharing|
 |Gre A-z materials|https://drive.google.com/drive/folders/19jj86h3dKYAluo76zGUh5ST0g1QuILm7?usp=sharing|
 
-Disclaimer: Gradchamp.com holds no ownership, responsibility or liability for the free content in the aforementioned Google Drive links.
+Disclaimer: **This Repository** holds no ownership, responsibility or liability for the free content in the aforementioned Google Drive links.
     
 
 
